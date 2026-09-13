@@ -48,21 +48,6 @@ The project is built on a robust **Star Schema** centered around a main fact tab
 
 ---
 
-### Contributors
-1. Rahma Omar
-
-2. Ahmed Maged
-
-3. Magdy Elhosseny
-
-4. Mariam Mahran
-
-5. Tasneem Mahran
-
-6. Mohamed Nabil
-
-7. Habiba Hany
-
 ##  Deliverables & Repository Structure
 ```text
 ├── Python/                  # Jupyter Notebooks & cleaning scripts
